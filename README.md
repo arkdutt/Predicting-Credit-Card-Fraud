@@ -1,4 +1,4 @@
-# CreditCardFraudDetection
+# Predicting Credit Card Fraud
 
 <h2>
       About this project:
